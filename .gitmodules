@@ -1,3 +1,0 @@
-[submodule "i-viewer-lib"]
-	path = i-viewer-lib
-	url = git@192.168.100.176:iviewer-fe/i-viewer-lib.git
