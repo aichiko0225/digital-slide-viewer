@@ -1,0 +1,24 @@
+{
+  "name": "@cc/digital-slide-viewer",
+  "productName": "DigitalSlideViewer",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Digital slide component for displaying images in a slide format.",
+  "main": "./src/index.js",
+  "dependencies": {
+    "antd": "^5.24.7",
+    "openseadragon": "^5.0.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-rnd": "^10.5.2",
+    "i-viewer-lib": "./i-viewer-lib"
+  },
+  "devDependencies": {
+    "@types/openseadragon": "^3.0.10",
+    "@types/react": "^19.1.2"
+  },
+  "peerDependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
