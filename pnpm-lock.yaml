@@ -12,8 +12,8 @@ importers:
         specifier: ^5.24.7
         version: 5.26.1(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       i-viewer-lib:
-        specifier: ../i-viewer-lib
-        version: link:../i-viewer-lib
+        specifier: ./i-viewer-lib
+        version: link:i-viewer-lib
       openseadragon:
         specifier: ^5.0.1
         version: 5.0.1

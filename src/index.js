@@ -1,1 +1,5 @@
-export const version = '1.0.0';
+// 数字切片浏览组件
+export { default as DigitalSlideViewer } from './components/DigitalSlideViewer';
+
+export { default as useDigitalSlideViewer } from './hooks/useDigitalSlideViewer';
+
